@@ -1,3 +1,5 @@
-name = "cloudflare-login-single"
+
+name = "cloudflare-login-test"
 main = "index.js"
 compatibility_date = "2026-11-06"
+
